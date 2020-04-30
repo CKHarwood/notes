@@ -13,16 +13,16 @@ One shortcoming of Cook's notation is that it is not easy to draw quickly, and i
 
 ## Typewritten notation
 
-<code>
+```
 $ Action
 f() Simulation
 = Feedback
 ! Model updated
-</code>
+```
 
 ### Detailed notation (use only where needed)
 
-<code>
+```
 + Positive feedback (repeat the action)
 = Neutral feedback
 - Negative feedback (avoid the action)
@@ -31,8 +31,7 @@ f() Simulation
 !1 Skill partially mastered
 !0 Skill unexercised
 !X Skill burnout
-</code>
-
+```
 
 ## Handwritten notation
 
